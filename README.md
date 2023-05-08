@@ -1,5 +1,5 @@
 # YT-DLP-simple-bat-GUI
-
+ simple Terminal user interface for yt-dlp (https://github.com/yt-dlp/yt-dlp)
 # setup 
  1. run bat file.
  2. pick the 6th option ( 6. Install/update )
