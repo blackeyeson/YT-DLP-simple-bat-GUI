@@ -1,9 +1,12 @@
 # YT-DLP-simple-bat-GUI
 
 # setup 
- run bat file and pick the 6th option 6. Install/update
- you might need to install ffmpeg manually (google "ffmpeg install windows" for instructions. first search result: https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/)
- after initial setup restart the bat file and you are ready
+ 1. run bat file.
+ 2. pick the 6th option ( 6. Install/update )
+ 3. you might need to install ffmpeg manually 
+   3.1 to do this google "ffmpeg install windows" for instructions
+   3.2 first search result: https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/
+ 4. after initial setup restart the bat file and you are ready to go
 
 # usage
  Download [URL] as:
