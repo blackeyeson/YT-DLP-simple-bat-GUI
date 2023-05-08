@@ -16,11 +16,13 @@
   4. audio playlist - downloads audios in the dir "%USERPROFILE%\Downloads\Yt-dlp\Music\(PLAYLIST_NAME) 
 
  Other options:
+ 
   5. set URL - sets the url that you want to download
   6. Install/update - used for setup and updating dependencies
   7. Exit
 
 # extra
- you can set the output format by editing the bat file
- eg for audio: replace "opus"  with "mp3"
- eg for video: replace "mp4"  with "mov"
+ you can set the output format by editing the bat file.
+ Examples:
+ 1. for audio: replace "opus"  with "mp3"
+ 2. for video: replace "mp4"  with "mov"
